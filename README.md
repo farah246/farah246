@@ -1,36 +1,40 @@
 # Hi, I'm Farah 👋
 
-I'm a software engineering student interested in full-stack development,
-DevOps, cloud infrastructure, and application security.
+Networks engineering student at [INSAT](https://insat.rnu.tn) (Tunis), specialized in **DevOps and infrastructure security**. I build CI/CD pipelines, harden servers, and secure Kubernetes workloads.
 
-## Technologies
+## What I work on
 
-- **Languages:** TypeScript, JavaScript, Python, Java, Shell
-- **Frontend:** React, Vue, Next.js
-- **Backend:** Node.js
-- **DevOps:** Docker, Kubernetes, GitHub Actions
-- **Security:** Authentication, IAM, secure application development
+- 🔧 **DevOps & CI/CD:** Jenkins, GitHub Actions, Docker, Kubernetes
+- 🔐 **Security:** zero-trust service mesh (Istio, mTLS), VPN and firewall hardening, IAM, key management
+- 📊 **Observability:** Grafana, Kiali, UptimeKuma
+- 💻 **Development:** TypeScript, Java, Python, Next.js, NestJS, Spring Boot
 
-## Featured Projects
+## Featured projects
 
-- [Clerk Next.js](https://github.com/farah246/clerk-nextjs)  
-  A Next.js project demonstrating authentication with Clerk.
+- **[KMS with IAM](https://github.com/farah246/KMS_IAM)**
+  Cryptographic key management system with envelope encryption (AES-256-GCM), key rotation, JWT/RBAC and audit logging.
 
-- [Wiki Project](https://github.com/farah246/wiki-project)  
-  A TypeScript project for building a wiki-style application.
+- **[Wiki Platform](https://github.com/farah246/wiki-project)**
+  AI-powered internal wiki with semantic search, role-based access control and Docker deployment.
 
-- [Kubernetes Deployment](https://github.com/farah246/kubenetes-deployment)  
-  Deployment configuration and automation with Kubernetes.
+- **[OpsForge](https://github.com/farah246/opsforge)**
+  Kubernetes deployment configuration and automation.
 
-## Currently Learning
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-- Cloud infrastructure
-- Kubernetes and container orchestration
-- CI/CD automation
-- Secure software development
 
-## Connect With Me
+## Currently exploring
 
-- GitHub: [@farah246](https://github.com/farah246)
-- LinkedIn: Add your LinkedIn profile here
-- Portfolio: Add your portfolio link here
+Kubernetes security, service mesh, and applied machine learning.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/farah-cherif-3078032b5/) · farahcherif619@gmail.com
