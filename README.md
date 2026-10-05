@@ -37,7 +37,7 @@ Networks engineering student at [INSAT](https://insat.rnu.tn) (Tunis), specializ
   Zero-trust microservices architecture on Kubernetes with Istio: mutual TLS, JWT authentication, RBAC policies, a STRIDE threat model, and validation against eleven attack scenarios.
 
 - **[KMS with IAM](https://github.com/farah246/KMS_IAM)**
-  Cryptographic key management system with envelope encryption (AES-256-GCM), key rotation, JWT/RBAC and audit logging.
+  FastAPI key management system with envelope encryption (AES-256-GCM), key rotation, JWT/RBAC and audit logging.
 
 - **[Wiki Platform](https://github.com/farah246/wiki-project)**
   AI-powered internal wiki with semantic search, role-based access control and Docker deployment.
