@@ -10,6 +10,16 @@ Networks engineering student at [INSAT](https://insat.rnu.tn) (Tunis), specializ
 ![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -19,7 +29,7 @@ Networks engineering student at [INSAT](https://insat.rnu.tn) (Tunis), specializ
 - 🔧 **DevOps & CI/CD:** Jenkins, GitHub Actions, Docker, Kubernetes
 - 🔐 **Security:** zero-trust service mesh (Istio, mTLS), VPN and firewall hardening, IAM, key management
 - 📊 **Observability:** Grafana, Kiali, UptimeKuma
-- 💻 **Development:** TypeScript, Java, Python, Next.js, NestJS, Spring Boot
+- 💻 **Development:** TypeScript, Java, Python, Next.js, Nuxt, Vue, Angular, NestJS, Spring Boot, Symfony, Supabase
 
 ## Featured projects
 
