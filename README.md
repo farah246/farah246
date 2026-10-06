@@ -35,13 +35,17 @@ Networks engineering student at [INSAT](https://insat.rnu.tn) (Tunis), specializ
 
 - **[DevSecOps Service Mesh](https://github.com/farah246/devsecops-service-mesh)**
   Zero-trust microservices architecture on Kubernetes with Istio: mutual TLS, JWT authentication, RBAC policies, a STRIDE threat model, and validation against eleven attack scenarios.
+  *Istio · Kubernetes · Minikube · Kiali · Grafana*
 
 - **[KMS with IAM](https://github.com/farah246/KMS_IAM)**
   FastAPI key management system with envelope encryption (AES-256-GCM), key rotation, JWT/RBAC and audit logging.
+  *Python · FastAPI · SQLAlchemy · bcrypt*
 
 - **[Wiki Platform](https://github.com/farah246/wiki-project)**
   AI-powered internal wiki with semantic search, role-based access control and Docker deployment.
+  *Next.js · Java J2EE · Supabase · Docker*
 
+  
 ## Currently exploring
 
 Kubernetes security, service mesh, and applied machine learning.
