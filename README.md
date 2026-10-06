@@ -1,4 +1,4 @@
-# Hi, I'm Farah 👋
+# Hi, I'm Farah
 
 Networks engineering student at [INSAT](https://insat.rnu.tn) (Tunis), specialized in **DevOps and infrastructure security**. I build CI/CD pipelines, harden servers, and secure Kubernetes workloads.
 
